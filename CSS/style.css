@@ -1,0 +1,28 @@
+body {
+background-color: orange;
+}
+
+h1  {
+  color: blue;
+}
+
+h2 {
+  color: purple;
+}
+
+div#main {
+background-color: pink
+}
+div#title {
+  text-align: center;
+ font-size 32px;
+ background colour: white;
+}
+
+div#conatiner {
+  background-color: green;
+
+  div.section {
+    color:red;
+    background-color: black;
+}
